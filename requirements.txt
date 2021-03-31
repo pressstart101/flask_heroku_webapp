@@ -9,7 +9,7 @@ gunicorn==19.9.0
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10
-lxml==4.3.0
+lxml==4.6.3
 macholib==1.11
 MarkupSafe==1.1.0
 numpy==1.15.4
